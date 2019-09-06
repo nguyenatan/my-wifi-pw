@@ -1,2 +1,7 @@
 # my-wifi-pw
-Check my wifi connected password.
+Check password my wifi connected.
+
+# Step 1
+./mywifipw [wifi-name]
+# Step 2
+login superuser.
