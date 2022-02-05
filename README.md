@@ -1,4 +1,4 @@
-# my-wifi-pw
+# my-wifi-pw (Fedora Linux)
 Check password my wifi connected.
 
 # Step 1
